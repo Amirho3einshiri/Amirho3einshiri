@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Amirhossein Shiri
+# 👋 Hi, I'm Amirhosein Shiri
 
 🌍 Full-Stack Developer from **Iran 🇮🇷**  
 💻 Passionate about Web Development & Python | Lifelong Learner 🚀
