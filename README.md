@@ -75,7 +75,9 @@ I believe in writing code that not only works but communicates intent. Clean, mo
 
 ## 📫 Let's Connect
 
-- 🌐 GitHub: [github.com/amirhosseinshiri](https://github.com/amirho3einshiri)  
-- 📧 Email: *amirhoseinshiri2008@gmail.com*  
+- 🌐 GitHub: [github.com/amirhosseinshiri](https://github.com/amirhosseinshiri)  
+- 💼 LinkedIn: [linkedin.com/in/amirhoseinshiri](https://www.linkedin.com/in/amirhoseinshiri)  
 - 📷 Instagram: [instagram.com/amirho3ein.sh.2008](https://instagram.com/amirho3ein.sh.2008)  
+- 📧 Email: amirhoseinshiri2008@gmail.com  
+- 💬 فارسی هم صحبت می‌کنم — اگر سوالی داری، راحت بپرس!
 - 💬 فارسی هم صحبت می‌کنم — اگر سوالی داری، راحت بپرس!
