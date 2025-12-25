@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 About Me 
 
 I'm Amirhossein Shiri — a detail-oriented and self-driven Full-Stack Developer with a strong foundation in both front-end and back-end technologies. I specialize in crafting responsive, accessible, and high-performance web applications using modern stacks like **Vue.js**, **React**, **Next.js**, **Django**, and **Flask**.
 
